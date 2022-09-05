@@ -7,7 +7,7 @@ File a bug or feature request for the app!
 
 ## Beta
 
-- [Testflight](https://testflight.apple.com/join/tG4e3S2F)
+- [TestFlight](https://testflight.apple.com/join/tG4e3S2F)
 - [Google Play](https://play.google.com/apps/testing/com.appleeducate.hymns_for_worship)
 
 ## Download
