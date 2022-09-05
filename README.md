@@ -1,7 +1,7 @@
 # Hymns for Worship
 
-![GitHub issues](https://img.shields.io/github/issues-raw/hymns-for-worship/issues)
-![GitHub issues](https://img.shields.io/github/issues-closed/hymns-for-worship/issues)
+![Github open](https://img.shields.io/github/issues-raw/hymns-for-worship/issues)
+![GitHub closed](https://img.shields.io/github/issues-closed-raw/hymns-for-worship/issues?color=blue)
 
 File a bug or feature request for the app!
 
