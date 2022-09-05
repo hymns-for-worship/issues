@@ -1,5 +1,8 @@
 # Hymns for Worship
 
+![GitHub issues](https://img.shields.io/github/issues-raw/hymns-for-worship/issues)
+![GitHub issues](https://img.shields.io/github/issues-closed/hymns-for-worship/issues)
+
 File a bug or feature request for the app!
 
 - Join the [Discord](https://discord.com/invite/Sud5Asaa) 🎙
